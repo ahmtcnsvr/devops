@@ -182,7 +182,7 @@ Parameters:
   KeyPairName:
     Description: Enter the name of your Key Pair for SSH connections.
     Type: String
-    Default: call.training
+    Default: Firstkey.pem
 
 Resources:
   DockerMachineSecurityGroup:
